@@ -1,0 +1,28 @@
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\lenovolap\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\lenovolap\Downloads\tech\day01\Task\day01 فادي عادل محب أمين\ConsoleApp3\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
